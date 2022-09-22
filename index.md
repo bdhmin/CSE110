@@ -5,9 +5,9 @@
 > Could I get a number 5 large? -some guy
 
 ## Contents
-- [About](https://github.com/bdhmin/CSE110/edit/main/index.md#about)
-- [Technical Background](https://github.com/bdhmin/CSE110/edit/main/index.md#technical-background)
-- [Other](https://github.com/bdhmin/CSE110/edit/main/index.md#other)
+- [About](#about)
+- [Technical Background](#technical-background)
+- [Other](#other)
 
 ## About
 Hi! My name is **Bryan Min** and I am a fourth year student at [UC San Diego](https://ucsd.edu/) studying 
@@ -51,4 +51,4 @@ Things I hope to do this year:
 - [ ] Land a fulltime job
 
 
-[Back to top](https://github.com/bdhmin/CSE110/blob/main/index.md#bryans-page)
+[Back to top](#bryans-page)
