@@ -51,4 +51,4 @@ Things I hope to do this year:
 - [ ] Land a fulltime job
 
 
-[Back to top](https://github.com/bdhmin/CSE110/edit/main/index.md#bryans-page)
+[Back to top](https://github.com/bdhmin/CSE110/blob/main/index.md#bryans-page)
