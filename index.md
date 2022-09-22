@@ -1,6 +1,6 @@
 # Bryan's Page
 ### CSE 110 Fall 2022
-[Here's the readme for this GH Page.](/README.md)
+[Here's the repo to this GH Page](https://bdhmin.github.io/CSE110/)
 
 ## Contents
 - [Bryan's Page](#bryans-page)
