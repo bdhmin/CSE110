@@ -2,12 +2,13 @@
 ### CSE 110 Fall 2022
 [Here's the readme for this GH Page.](/README.md)
 
-> Could I get a number 5 large? -some guy
-
 ## Contents
-- [About](#about)
-- [Technical Background](#technical-background)
-- [Other](#other)
+- [Bryan's Page](#bryans-page)
+    - [CSE 110 Fall 2022](#cse-110-fall-2022)
+  - [Contents](#contents)
+  - [About](#about)
+  - [Technical Background](#technical-background)
+  - [Other](#other)
 
 ## About
 Hi! My name is **Bryan Min** and I am a fourth year student at [UC San Diego](https://ucsd.edu/) studying 
@@ -50,5 +51,8 @@ Things I hope to do this year:
 - [ ] Building something with the GitHub GraphQL API
 - [ ] Land a fulltime job
 
+[Study Spots](study-spots.md)
+
+> I wish the best of luck to everyone's start to the school year!
 
 [Back to top](#bryans-page)
