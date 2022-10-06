@@ -6,9 +6,14 @@
 - [Bryan's Page](#bryans-page)
     - [CSE 110 Fall 2022](#cse-110-fall-2022)
   - [Contents](#contents)
+  - [Labs](#labs)
   - [About](#about)
   - [Technical Background](#technical-background)
   - [Other](#other)
+
+## Labs
+
+- [Lab2](https://bdhmin.github.io/CSE110-Lab2/)
 
 ## About
 Hi! My name is **Bryan Min** and I am a fourth year student at [UC San Diego](https://ucsd.edu/) studying 
